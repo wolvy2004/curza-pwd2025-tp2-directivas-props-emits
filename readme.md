@@ -4,8 +4,11 @@ En este trabajo práctico veremos lo aprendido en las últimas clases:
 
 - Directivas: ``v-for`` `` v-show``
 - Emits
+<<<<<<< HEAD
 - Props
  
+=======
+>>>>>>> 4a79c62224518ae5dd408a03cab929770695fdc3
 
 ## Manos a la obra 🔨
 
